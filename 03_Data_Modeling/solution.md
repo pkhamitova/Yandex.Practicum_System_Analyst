@@ -8,7 +8,4 @@
 
 ## Детали решения
 
-Полное описание ER-диаграммы представлено в детализированном документе:
-
-📄 [Ссылка на детализированное решение](https://docs.google.com/document/d/1SALvqdaXDM_FjPafh5IMMABrh_C1uBYMw1xfmaw-lZ4/edit?tab=t.0)
-
+Полное описание ER‑диаграмм представлено в папке [diagrams](diagrams/).
